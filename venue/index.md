@@ -2,7 +2,7 @@
 layout: page-with-toc
 #title: Local &amp; Transportation
 title: Localização
-headings: "conference-Local,getting-to,food,accommodation,sights"
+headings: "conference-Local,getting-to,accommodation,food,hosting,sights"
 ---
 
 <h2 class='space-bottom1' id='conference-Local'>Local</h2>
@@ -31,11 +31,38 @@ Para chegar ao Tribunal de Justiça do Estado da Bahia:
 -      Linha de ônibus 123001 - Barra R1 x Novos Horizonte  - parada na 5ª Avenida do Centro Administrativo da Bahia
 - É possível utilizar o app **CitáMobbi** da Prefeitura Municipal de Salvador, que apresenta todas as linhas de ônibus da cidade, seus percursos e tempo estimado de espera.
 
+Para chegar à Escola Politécnica da UFBA:
+
+- Linha de ônibus 0140 (Lapa × Cardeal da Silva)
+- Linha de ônibus 0141 (Hospital Geral do Estado / Federação × Lapa)
+- Linha de ônibus 0213 (Federação × Ribeira, via Dique)
+- Linha de ônibus 0339 (Circular R1 — Comércio × Rodoviária, via Av. Garibalde)
+- Linha de ônibus 0933 (Praça da Sé × Rio das Pedras / Doron)
+- Linha de ônibus 1053 (Barra 3 × Estação Mussurunga)
+- Linha de ônibus 1211 (Barra × Terminal Acesso Norte / Neves, via Av. Vasco da Gama)
+- Linha de ônibus 1239 (Barra × Terminal Acesso Norte / Mata Escura, via Av. Vasco da Gama)
+- Linha de ônibus 1511 (Engenho Velho da Federação × Conjunto Pirajá)
+
+Se você for estudante da UFBA com matrícula ativa, pode utilizar o BUZUFBA, serviço de micro-ônibus gratuito:
+
+- Linha B2 (Reitoria ↔ PAF 1), com paradas na Politécnica aproximadamente às 7:30, 15:00, 11:20 e 18:50.
+- Linha B3 (PAF 1 ↔ Faculdade de Direito), com passagem pela Politécnica às 8:50 e 17:55.
+
+Operador Expresso BUZUFBA (linha circular interna da UFBA):
+
+- ROTA B‑01, B‑02, B‑03, B‑04 e B‑05 (linhas circulares internas da UFBA)
+- 855A.URB Vida Nova / Itinga → Campo Grande / Barra
+
 O **Aeroporto Luís Eduardo Magalhães** tem conexão com a linha 2 do metrô na Estação Aeroporto, fazendo conexão com outras áreas da cidade.
 
 A tarifa nos ônibus de Salvador é de R$ 5,60 e no metrô de R$ 4,10.
 
 Além do transporte público, também estão disponíveis em Salvador aplicativos de transporte (como Uber e 99) e serviços de táxi, com pontos espalhados pela cidade.
+
+<h2 class='space-bottom1' id='accommodation'>Dicas de lugares em Salvador</h2>
+
+A planilha a seguir apresenta uma lista de dicas de lugares em Salvador-Ba: bares, hotéis, hostels, points LGBTQIAPN+ e pontos turísticos.
+<a href="https://docs.google.com/spreadsheets/d/1PUnd7-9tDjtK0imxJxFktHtUZxA2ximg/edit?usp=drive_link&ouid=104542550302449854702&rtpof=true&sd=true;headers=false">Lugares em Salvador!!</a>
 
 <h2 class='space-bottom1' id='food'>Alimentação</h2>
 
@@ -44,7 +71,7 @@ Para almoço existe um restaurante na modalidade quilo, dentro do próprio Tribu
 
 Também na Escola Politécnica da UFBA há um restaurante interno, na modalidade quilo, e outros menores no entorno, com valor acessível.
 
-<h2 class='space-bottom1' id='accommodation'>Hospedagem</h2>
+<h2 class='space-bottom1' id='hosting'>Hospedagem</h2>
 
 A universidade não disponibiliza acomodações, então os participantes podem procurar locais de hospedagem por conta, como em aplicativos e sites de reserva.
 
@@ -54,11 +81,6 @@ Os principais pontos turísticos de Salvador estão distribuídos entre o centro
 Salvador também conta com o tour da [Salvador BUS](https://salvadorbus.com.br/), um ônibus panorâmico que percorre os cartões postais da cidade.
 
 Outra atração popular é visitar o município de Mata de São João, na localidade de Praia do Forte e entorno.
-
-<h2 class='space-bottom1' id='accommodation'>Dicas de lugares em Salvador</h2>
-
-A planilha a seguir apresenta uma lista de dicas de lugares em Salvador-Ba: bares, hotéis, hostels, points LGBTQIAPN+ e pontos turísticos.
-<a href="https://docs.google.com/spreadsheets/d/1PUnd7-9tDjtK0imxJxFktHtUZxA2ximg/edit?usp=drive_link&ouid=104542550302449854702&rtpof=true&sd=true;headers=false">Lugares em Salvador!!</a>
 
 <!--
 
